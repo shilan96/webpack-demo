@@ -1,0 +1,21 @@
+/*! ali 版权所有 */
+#bgColor {
+  width: 200px;
+  height: 300px;
+  background-color: #333;
+}
+
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+#picture {
+  background-image: url(http://192.168.1.2:8090/images/c90527a43d8d1678f7f35b0e045a17e7.jpg);
+  width: 300px;
+  height: 150px;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+  box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.25);
+}
+/*# sourceMappingURL=index.css.map*/
